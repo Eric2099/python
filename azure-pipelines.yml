@@ -16,3 +16,4 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: python age.py
+  displayName: 'Run age.py'
